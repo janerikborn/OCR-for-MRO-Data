@@ -1,2 +1,2 @@
 # OCR-for-MRO-Data
-OCR for MRO-Data with Pytesseract (Bachelor Thesis - Jan Erik Born)
+OCR for MRO-Data with Pytesseract and Google Vision OCR (Bachelor Thesis - Jan Erik Born)
